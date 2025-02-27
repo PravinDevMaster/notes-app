@@ -101,6 +101,3 @@ Since both frontend and backend have separate `package.json` files, they need to
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **Authentication:** JSON Web Tokens (JWT)
 
-## License
-
-This project is licensed under the MIT License.
