@@ -78,6 +78,20 @@ npm run dev
 
 Since both frontend and backend have separate `package.json` files, they need to be run individually in different terminals.
 
+## 6. 🧪 Developer Testing (For Local Use Only)
+
+> The following credentials are for personal testing during development:
+
+```bash
+  Email: johndoe@example.com
+  Password: hashedpassword123
+```
+
+```bash
+  Email: janesmith@example.com
+  Password: hashedpassword456
+```
+
 ## Deployment
 
 ### Backend Deployment
@@ -100,4 +114,3 @@ Since both frontend and backend have separate `package.json` files, they need to
 - **Frontend:** React.js with Vite, React Router, Axios, Tailwind CSS v4
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **Authentication:** JSON Web Tokens (JWT)
-
